@@ -15,6 +15,10 @@ The goal of developing this project was to apply the knowladge of Object-oriente
   </br>
   -Inheritance
   </br>
+  -MVC (Model–view–controller)
+  </br>
+  -Singleton
+  </br>
   -Overloading methods
   </br>
   -Classes
@@ -32,6 +36,6 @@ The goal of developing this project was to apply the knowladge of Object-oriente
   </br>
   sudo apt-get install build-essential  (It will install the GCC compiler and other development tools.)
   </br>
-  g++ -o mosqueta MosquetaGame.cpp
+  make comp
   </br>
-  ./mosqueta
+  ./programa
